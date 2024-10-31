@@ -1,0 +1,1523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-03-30 19:48+0100\n"
+"PO-Revision-Date: 2024-03-30 19:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/nfplwd-change-role-notification.php:40
+msgid "Role changed in"
+msgstr "Ruolo modificato in"
+
+#: admin/includes/nfplwd-change-role-notification.php:41
+msgid "A user, with user login"
+msgstr "Un visitatore, con nome utente"
+
+#: admin/includes/nfplwd-change-role-notification.php:41
+msgid "has now"
+msgstr "ha ora"
+
+#: admin/includes/nfplwd-change-role-notification.php:41
+msgid "role"
+msgstr "ruolo"
+
+#: admin/includes/nfplwd-change-role-notification.php:41
+msgid "in"
+msgstr "in"
+
+#: admin/includes/nfplwd-login-notification-to-admin.php:41
+#: admin/includes/nfplwd-user-login-notification.php:38
+msgid "Successful login to"
+msgstr "Accesso riuscito a"
+
+#: admin/includes/nfplwd-login-notification-to-admin.php:42
+msgid "You've just logged in to"
+msgstr "Hai appena effettuato l'accesso a"
+
+#: admin/includes/nfplwd-login-notification-to-admin.php:42
+msgid ""
+"If you do not recognize this action as your own, go to your profile page"
+msgstr "Se non riconosci questa azione come tua, vai al tuo profilo"
+
+#: admin/includes/nfplwd-login-notification-to-admin.php:42
+msgid ""
+"and immediately change your password using the \"Generate Password\" button, "
+"then click on the \"Log Out Everywhere Else\" button"
+msgstr ""
+"e cambia immediatamente la tua password utilizzando il pulsante \"Imposta "
+"nuova password\", poi fai clic sul pulsante \"Scollegati da ogni postazione\""
+
+#: admin/includes/nfplwd-plugin-activate-notification.php:32
+msgid "Plugin activation on"
+msgstr "Attivazione del plugin su"
+
+#: admin/includes/nfplwd-plugin-activate-notification.php:33
+msgid "The plugin"
+msgstr "Il plugin"
+
+#: admin/includes/nfplwd-plugin-activate-notification.php:33
+msgid "has just been activated on"
+msgstr "è stato appena attivato su"
+
+#: admin/includes/nfplwd-user-delete-notification.php:38
+msgid "User deleted in"
+msgstr "Utente cancellato in"
+
+#: admin/includes/nfplwd-user-delete-notification.php:39
+msgid "An administrator, with user login"
+msgstr "Un amministratore, con nome utente"
+
+#: admin/includes/nfplwd-user-delete-notification.php:39
+msgid "was just deleted from"
+msgstr "è stato appena cancellato da"
+
+#: admin/includes/nfplwd-user-login-notification.php:39
+msgid "The user with administrative role"
+msgstr "L'utente con ruolo amministrativo"
+
+#: admin/includes/nfplwd-user-login-notification.php:39
+msgid "logged in successfully to"
+msgstr "ha effettuato l'accesso a"
+
+#: admin/nfplwd-settings-content.php:27 admin/nfplwd-settings-content.php:38
+msgid "attempts"
+msgstr "tentativi"
+
+#: admin/nfplwd-settings-content.php:64
+msgid "minutes"
+msgstr "minuti"
+
+#: admin/nfplwd-settings-content.php:77
+msgid "hours"
+msgstr "ore"
+
+#: admin/nfplwd-settings-content.php:90 admin/nfplwd-settings-content.php:103
+msgid "days"
+msgstr "giorni"
+
+#: admin/nfplwd-settings-content.php:115
+msgid "unlimited (never locked)"
+msgstr "illimitati (mai bloccato)"
+
+#: admin/nfplwd-settings-content.php:132 admin/nfplwd-settings-content.php:143
+msgid "after"
+msgstr "dopo"
+
+#: admin/nfplwd-settings-content.php:132 admin/nfplwd-settings-content.php:143
+msgid "lock downs"
+msgstr "blocchi"
+
+#: admin/nfplwd-settings-content.php:177
+msgid "users permanently locked"
+msgstr "utenti bloccati in modo permanente"
+
+#: admin/nfplwd-settings-content.php:199
+msgid "browse one of your frontend page and get back to see the results"
+msgstr ""
+"naviga una delle tue pagine di frontend e torna qui per vedere i risultati"
+
+#: admin/nfplwd-settings-content.php:200
+msgid "no checks so far"
+msgstr "nessun controllo finora"
+
+#: admin/nfplwd-settings-content.php:208
+msgid "Two factors authentication for Administrators"
+msgstr "Autenticazione a due fattori per gli Amministratori"
+
+#: admin/nfplwd-settings-content.php:217
+msgid ""
+"If switched on, Administrators are required to confirm their authentication "
+"by following the instructions contained into an email message sent each time "
+"they login successfully"
+msgstr ""
+"Se attivata, gli amministratori sono tenuti a confermare la loro "
+"autenticazione seguendo le istruzioni contenute in un messaggio di posta "
+"elettronica inviato ogni volta che effettuano con successo il login"
+
+#: admin/nfplwd-settings-content.php:227
+msgid "Skip two factors authentication until IP does not change"
+msgstr "Salta l'autenticazione a due fattori finché l'IP non cambia"
+
+#: admin/nfplwd-settings-content.php:236
+msgid ""
+"If switched on, two factors authentication is skipped when IP has not "
+"changed since the last successful login"
+msgstr ""
+"Se attivata, l'autenticazione a due fattori viene saltata quando l'IP non è "
+"cambiato dall'ultimo accesso riuscito"
+
+#: admin/nfplwd-settings-content.php:250
+msgid "Login attempts tracking"
+msgstr "Monitoraggio dei tentativi di accesso"
+
+#: admin/nfplwd-settings-content.php:259
+msgid ""
+"If switched on, login attempts will be tracked and user exceeding the "
+"allowed login attempts will be suspended or excluded from login"
+msgstr ""
+"Se attivata, i tentativi di accesso verranno monitorati e l'utente che "
+"supera i tentativi di accesso consentiti verrà sospeso o escluso dall'accesso"
+
+#: admin/nfplwd-settings-content.php:269
+msgid "Allowed failed login attempts"
+msgstr "Tentativi di accesso non riusciti consentiti"
+
+#: admin/nfplwd-settings-content.php:278
+msgid ""
+"Define how many times a user can be fail on login before being temporarily "
+"prevented from trying again"
+msgstr ""
+"Definire quante volte un utente può fallire l'accesso prima che gli venga "
+"temporaneamente impedito di riprovare"
+
+#: admin/nfplwd-settings-content.php:307
+msgid "Inform user about attempts left"
+msgstr "Informa l'utente dei tentativi rimasti"
+
+#: admin/nfplwd-settings-content.php:316
+msgid ""
+"After a failed login attempt, display a message for notifying the user about "
+"login attempts left"
+msgstr ""
+"Dopo un tentativo di accesso non riuscito, visualizzare un messaggio per "
+"notificare all'utente i tentativi di accesso rimasti"
+
+#: admin/nfplwd-settings-content.php:326
+msgid "Temporary lock duration"
+msgstr "Durata del blocco temporaneo"
+
+#: admin/nfplwd-settings-content.php:335
+msgid ""
+"Define how long a user that exceeded conceded login attempts has to wait "
+"before retrying"
+msgstr ""
+"Definire per quanto tempo un utente che ha superato i tentativi di accesso "
+"concessi deve attendere prima di riprovare"
+
+#: admin/nfplwd-settings-content.php:345
+msgid "Temporary lock down message"
+msgstr "Messaggio di blocco temporaneo"
+
+#: admin/nfplwd-settings-content.php:354
+msgid ""
+"Message to be displayed when someone exceeds the maximum number of login "
+"attempts conceded"
+msgstr ""
+"Messaggio da visualizzare quando qualcuno supera il numero massimo di "
+"tentativi di accesso concessi"
+
+#: admin/nfplwd-settings-content.php:358
+msgid ""
+"You have exceeded the maximum number of login attempts conceded, please try "
+"again later"
+msgstr ""
+"Hai superato il numero massimo di tentativi di accesso concessi, riprova più "
+"tardi"
+
+#: admin/nfplwd-settings-content.php:364
+msgid "Permanently lock"
+msgstr "Blocco permanente"
+
+#: admin/nfplwd-settings-content.php:373
+msgid ""
+"Define how many times a user can be temporarily locked down before being "
+"permanently prevented from login"
+msgstr ""
+"Definire quante volte un utente può essere temporaneamente bloccato prima di "
+"che gli venga definitivamente impedito l'accesso"
+
+#: admin/nfplwd-settings-content.php:397
+msgid "Permanent lock down message"
+msgstr "Messaggio di blocco permanente"
+
+#: admin/nfplwd-settings-content.php:406
+msgid "Message to be displayed when someone gets permanently locked down"
+msgstr ""
+"Messaggio da visualizzare quando qualcuno viene bloccato in modo permanente"
+
+#: admin/nfplwd-settings-content.php:410
+msgid ""
+"Sorry, you can not try to login anymore since you are permanently locked down"
+msgstr ""
+"Siamo spiacenti, non puoi più provare ad accedere poiché sei bloccato in "
+"modo permanente"
+
+#: admin/nfplwd-settings-content.php:420
+msgid "Deactivate XML-RPC"
+msgstr "Disattiva XML-RPC"
+
+#: admin/nfplwd-settings-content.php:429
+msgid ""
+"If switched on, the WordPress support for XML-RPC protocol, often used for "
+"brute force attacks, will be deactivated"
+msgstr ""
+"Se attivata, il supporto WordPress per il protocollo XML-RPC, spesso "
+"utilizzato per gli attacchi di forza bruta, verrà disattivato"
+
+#: admin/nfplwd-settings-content.php:439
+msgid "Prevent author usernames from being discovered"
+msgstr "Impedisci che gli username possano essere scoperti"
+
+#: admin/nfplwd-settings-content.php:448
+msgid ""
+"If switched on, some WordPress native functions that help hackers to have "
+"access to authors usernames, including the ones with administrative "
+"privileges, will be deactivated"
+msgstr ""
+"Se attivata, alcune funzioni native di WordPress che aiutano gli hacker ad "
+"avere accesso ai nomi utente degli autori, inclusi quelli con privilegi "
+"amministrativi, verranno disattivate"
+
+#: admin/nfplwd-settings-content.php:458
+msgid "Prevent automatic redirection to author page"
+msgstr "Impedisci il reindirizzamento automatico alla pagina dell'autore"
+
+#: admin/nfplwd-settings-content.php:469
+#, php-format
+msgid ""
+"If switched on, an author archive page called by an ID parameter, for "
+"example %s, will be redirected to home URL through a WordPress safe "
+"redirection"
+msgstr ""
+"Se attivata, una pagina di archivio dell'autore chiamata da un parametro ID, "
+"ad esempio %s, verrà reindirizzata all'URL principale tramite un "
+"reindirizzamento sicuro di WordPress"
+
+#: admin/nfplwd-settings-content.php:470
+msgid "yours"
+msgstr "la tua"
+
+#: admin/nfplwd-settings-content.php:482
+msgid "Hide username access through API REST"
+msgstr "Impedisci l'accesso al nome utente tramite API REST"
+
+#: admin/nfplwd-settings-content.php:493
+#, php-format
+msgid "If switched on, you will prevent usernames to be discovered through %s"
+msgstr "Se attivata, impedirai che i nomi utente siano scoperti tramite %s"
+
+#: admin/nfplwd-settings-content.php:510
+msgid "Custom login errors"
+msgstr "Errori di autenticazione personalizzati"
+
+#: admin/nfplwd-settings-content.php:519
+msgid ""
+"If switched on, the defined custom login errors will be displayed instead of "
+"the ones from WordPress"
+msgstr ""
+"Se attivata, verranno visualizzati gli errori di accesso personalizzati qui "
+"definiti invece di quelli di WordPress"
+
+#: admin/nfplwd-settings-content.php:529
+msgid "Message to display when username is not valid"
+msgstr "Messaggio da visualizzare quando il nome utente non è valido"
+
+#: admin/nfplwd-settings-content.php:538
+msgid "Enter the message that you want to be displayed on wrong username"
+msgstr ""
+"Immettere il messaggio che si desidera visualizzare con nome utente errato"
+
+#: admin/nfplwd-settings-content.php:542 admin/nfplwd-settings-content.php:561
+#: admin/nfplwd-settings-content.php:580
+msgid "User not found, please retry"
+msgstr "Utente non trovato, per favore riprova"
+
+#: admin/nfplwd-settings-content.php:548
+msgid "Message to display when email address is not valid"
+msgstr "Messaggio da visualizzare quando l'indirizzo email non è valido"
+
+#: admin/nfplwd-settings-content.php:557
+msgid "Enter the message that you want to be displayed on wrong email address"
+msgstr ""
+"Immettere il messaggio che si desidera visualizzare quando l'indirizzo email "
+"è errato"
+
+#: admin/nfplwd-settings-content.php:567
+msgid "Message to display when password is not valid"
+msgstr "Messaggio da visualizzare quando la password non è valida"
+
+#: admin/nfplwd-settings-content.php:576
+msgid "Enter the message that you want to be displayed on wrong password"
+msgstr ""
+"Immettere il messaggio che si desidera visualizzare quando la password errata"
+
+#: admin/nfplwd-settings-content.php:586
+msgid "Message to display when username is empty"
+msgstr "Messaggio da visualizzare quando il nome utente è vuoto"
+
+#: admin/nfplwd-settings-content.php:595
+msgid "Enter the message that you want to be displayed on empty username"
+msgstr ""
+"Immettere il messaggio che si desidera visualizzare quando il nome utente è "
+"vuoto"
+
+#: admin/nfplwd-settings-content.php:599 admin/nfplwd-settings-content.php:618
+msgid "Please, fill-in all the required data"
+msgstr "Per favore, compila tutti i dati richiesti"
+
+#: admin/nfplwd-settings-content.php:605
+msgid "Message to display when password is empty"
+msgstr "Messaggio da visualizzare quando la password è vuota"
+
+#: admin/nfplwd-settings-content.php:614
+msgid "Enter the message that you want to be displayed on empty password"
+msgstr ""
+"Immettere il messaggio che si desidera visualizzare quando la password è "
+"vuota"
+
+#: admin/nfplwd-settings-content.php:628
+msgid "Notifications"
+msgstr "Notifiche"
+
+#: admin/nfplwd-settings-content.php:637
+msgid ""
+"If switched on, the notifications defined here will be sent to the entered "
+"address"
+msgstr ""
+"Se attivata, le notifiche qui definite verranno inviate all'indirizzo "
+"inserito"
+
+#: admin/nfplwd-settings-content.php:647
+msgid "On administrator successful login"
+msgstr "Quando un amministratore effettua il login con successo"
+
+#: admin/nfplwd-settings-content.php:656
+msgid ""
+"If switched on, a notification will be sent when a user with administrative "
+"role logs in successfully"
+msgstr ""
+"Se attivata, viene inviata una notifica quando un utente con ruolo "
+"amministrativo effettua il login con successo"
+
+#: admin/nfplwd-settings-content.php:666
+msgid "On role change"
+msgstr "Al cambio di ruolo"
+
+#: admin/nfplwd-settings-content.php:675
+msgid "If switched on, a notification will be sent when a user role is changed"
+msgstr ""
+"Se attivata, verrà inviata una notifica quando un ruolo utente viene "
+"modificato"
+
+#: admin/nfplwd-settings-content.php:685
+msgid "On administrator delete"
+msgstr "Quando un amministratore viene cancellato"
+
+#: admin/nfplwd-settings-content.php:694
+msgid ""
+"If switched on, a notification will be sent when an administrator is deleted"
+msgstr ""
+"Se attivata, verrà inviata una notifica quando un amministratore viene "
+"cancellato"
+
+#: admin/nfplwd-settings-content.php:704
+msgid "On temporary lock"
+msgstr "Al blocco temporaneo"
+
+#: admin/nfplwd-settings-content.php:713
+msgid ""
+"If switched on and if login attempts tracking is enabled, a notification "
+"will be sent when a user is temporary locked down"
+msgstr ""
+"Se attivato e se il monitoraggio dei tentativi di accesso è abilitato, verrà "
+"inviata una notifica quando un utente è temporaneamente bloccato"
+
+#: admin/nfplwd-settings-content.php:723
+msgid "On permanent lock"
+msgstr "Al blocco permanente"
+
+#: admin/nfplwd-settings-content.php:732
+msgid ""
+"If switched on and if login attempts tracking is enabled, a notification "
+"will be sent when a user is permanently locked down"
+msgstr ""
+"Se attivato e se il monitoraggio dei tentativi di accesso è abilitato, verrà "
+"inviata una notifica quando un utente viene bloccato in modo permanente"
+
+#: admin/nfplwd-settings-content.php:742
+msgid "On a plugin activation"
+msgstr "All'attivazione di un plugin"
+
+#: admin/nfplwd-settings-content.php:751
+msgid "If switched on, a notification will be sent when a plugin is activated"
+msgstr ""
+"Se attivata, verrà inviata una notifica quando viene attivato un plugin"
+
+#: admin/nfplwd-settings-content.php:761
+msgid "When suspect files are found"
+msgstr "Quando vengono trovati dei file sospetti"
+
+#: admin/nfplwd-settings-content.php:770
+msgid ""
+"If switched on, a notification will be sent when the daily security check "
+"will find suspect files"
+msgstr ""
+"Se attivata, verrà inviata una notifica quando il controllo di sicurezza "
+"giornaliero troverà file sospetti"
+
+#: admin/nfplwd-settings-content.php:770
+msgid "Last security check"
+msgstr "Ultimo controllo di sicurezza"
+
+#: admin/nfplwd-settings-content.php:772
+#, php-format
+msgid ""
+"If you want to manually run the security check now and you wish to be "
+"notified by email about results, even if no suspect files are found, %s"
+msgstr ""
+"Se vuoi eseguire manualmente il controllo di sicurezza e desideri ricevere "
+"una notifica via e-mail dei risultati, anche se non vengono individuati file "
+"sospetti, %s"
+
+#: admin/nfplwd-settings-content.php:773
+msgid "run the security check now"
+msgstr "esegui ora il controllo di sicurezza"
+
+#: admin/nfplwd-settings-content.php:773
+msgid "click here"
+msgstr "clicca qui"
+
+#: admin/nfplwd-settings-content.php:785
+msgid "Notification address"
+msgstr "Indirizzo di notifica"
+
+#: admin/nfplwd-settings-content.php:794
+msgid "Enter the email address to be used for all the above notifications"
+msgstr ""
+"Inserisci l'indirizzo email da utilizzare per tutte le notifiche di cui sopra"
+
+#: admin/nfplwd-settings-content.php:804
+msgid "Notify administrator on successful login"
+msgstr "Avvisa l'amministratore quando si autentica con successo"
+
+#: admin/nfplwd-settings-content.php:813
+msgid ""
+"If switched on, a notification will be sent to the administrator who logs in "
+"successfully"
+msgstr ""
+"Se attivata, verrà inviata una notifica all'amministratore che si autentica "
+"con successo"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:43
+msgid "not completed, an error occurred"
+msgstr "non completato, un errore è stato registrato"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:71
+#: public/includes/ajax/nfplwd-core-difference-notification.php:80
+msgid "Error on security check"
+msgstr "Errore nel controllo di sicurezza"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:72
+#: public/includes/ajax/nfplwd-core-difference-notification.php:81
+msgid "The daily security check failed on"
+msgstr "Il controllo di sicurezza giornaliero è fallito su"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:324
+msgid "some suspect files found, please investigate"
+msgstr "sono stati trovati alcuni file sospetti, si prega di indagare"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:331
+#: public/includes/ajax/nfplwd-core-difference-notification.php:346
+msgid ""
+"These files are different from the ones included in the original WordPress "
+"package"
+msgstr ""
+"Questi file sono diversi da quelli inclusi nel pacchetto originale di "
+"WordPress"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:346
+msgid "and furthermore they hide some unexpected PHP code"
+msgstr "e inoltre nascondono del codice PHP inatteso"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:361
+msgid "These files, not a part of the original WordPress package"
+msgstr "Questi file, che non fanno parte del pacchetto originale di WordPress"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:361
+msgid "hide some unexpected PHP code"
+msgstr "nascondono del codice PHP inatteso"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:376
+msgid "These files are not a part of the original WordPress package"
+msgstr "Questi file non fanno parte del pacchetto originale di WordPress"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:376
+msgid "some of them may turn out to be false positives"
+msgstr "alcuni di essi potrebbero rivelarsi falsi positivi"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:390
+msgid "Suspect files on"
+msgstr "File sospetti su"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:391
+msgid "The daily security check on"
+msgstr "Il controllo di sicurezza giornaliero su"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:391
+msgid ""
+"has find that the following files are to be considered as suspect for the "
+"following reasons"
+msgstr ""
+"ha riscontrato che i seguenti file devono essere considerati sospetti per le "
+"seguenti ragioni"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:391
+msgid ""
+"It is very likely that this list is not complete, since some primary folders "
+"are not inspected at all (wp-content, just to name one); therefore this e-"
+"mail message is intended to be an alert for an existing infection, which "
+"should be adequately investigated with appropriate tools"
+msgstr ""
+"È molto probabile che questo elenco non sia completo, dato che alcune "
+"cartelle primarie non vengono affatto ispezionate (wp-content, solo per "
+"citarne una); pertanto questo messaggio di posta elettronica è da intendersi "
+"come un'allerta per un'infezione esistente, che dovrebbe essere "
+"adeguatamente indagata con strumenti appropriati"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:395
+msgid "no suspect files found, so far so good"
+msgstr "non sono stati trovati file sospetti, per ora tutto bene"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:404
+msgid "No suspect files on"
+msgstr "Nessun file sospetto su"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:405
+msgid "The manually security check on"
+msgstr "Il controllo di sicurezza manuale su"
+
+#: public/includes/ajax/nfplwd-core-difference-notification.php:405
+msgid "has find that no files are to be considered as suspect"
+msgstr "ha riscontrato che nessun file è da considerarsi sospetto"
+
+#: public/includes/nfplwd-check-login.php:51
+#: public/includes/nfplwd-check-login.php:57
+#: public/includes/nfplwd-check-login.php:63
+msgid "Be careful"
+msgstr "Fai attenzione"
+
+#: public/includes/nfplwd-check-login.php:51
+#: public/includes/nfplwd-check-login.php:57
+#: public/includes/nfplwd-check-login.php:63
+msgid "you have only"
+msgstr "hai solo"
+
+#: public/includes/nfplwd-check-login.php:51
+#: public/includes/nfplwd-check-login.php:57
+#: public/includes/nfplwd-check-login.php:63
+msgid "attempts left"
+msgstr "tentativi a disposizione"
+
+#: public/includes/nfplwd-check-login.php:164
+msgid "User permanently locked down from"
+msgstr "L'utente è stato bloccato in modo permanente da"
+
+#: public/includes/nfplwd-check-login.php:166
+msgid ""
+"A user was permanently locked for having exceeded temporary locks conceded"
+msgstr ""
+"Un utente è stato bloccato in modo permanente per aver superato i blocchi "
+"temporanei concessi"
+
+#: public/includes/nfplwd-check-login.php:166
+#: public/includes/nfplwd-check-login.php:202
+msgid "Last username used was"
+msgstr "L'ultimo nome utente utilizzato è stato"
+
+#: public/includes/nfplwd-check-login.php:169
+#: public/includes/nfplwd-check-login.php:205
+msgid "Anonymized user IP is"
+msgstr "L'IP utente anonimizzato è"
+
+#: public/includes/nfplwd-check-login.php:200
+msgid "User locked down from"
+msgstr "Utente bloccato su"
+
+#: public/includes/nfplwd-check-login.php:202
+msgid ""
+"A user was temporarily locked for having exceeded login attempts conceded"
+msgstr ""
+"Un utente è stato temporaneamente bloccato per aver superato i tentativi di "
+"accesso concessi"
+
+#: public/includes/nfplwd-check-two-factors-authentication.php:217
+msgid "Enter the code received by email"
+msgstr "Inserisci il codice ricevuto via email"
+
+#: public/includes/nfplwd-check-two-factors-authentication.php:240
+msgid "The provided code is not valid"
+msgstr "Il codice fornito non è valido"
+
+#: public/includes/nfplwd-register-successful-login.php:116
+msgid "Your login code is"
+msgstr "Il tuo codice di accesso è"
+
+#: public/includes/nfplwd-register-successful-login.php:120
+msgid "Howdy"
+msgstr "Ciao"
+
+#: public/includes/nfplwd-register-successful-login.php:121
+msgid ""
+"in order to confirm your authentication, please enter the below code within "
+"the next ten minutes"
+msgstr ""
+"per confermare l'autenticazione, inserisci il codice qui sotto entro i "
+"prossimi dieci minuti"
+
+#: public/includes/nfplwd-register-successful-login.php:124
+msgid "Login code"
+msgstr "Codice di accesso"
+
+#: public/includes/nfplwd-register-successful-login.php:127
+msgid "If you are not trying to login to"
+msgstr "Se non stai provando ad accedere a"
+
+#: public/includes/nfplwd-register-successful-login.php:127
+msgid ""
+"it is strongly recommended that you change your password, since someone "
+"knows it"
+msgstr ""
+"è fortemente raccomandato che tu cambi la tua password, dal momento che "
+"qualcuno ne è in possesso"
+
+#: public/includes/nfplwd-register-successful-login.php:128
+msgid "Thank you"
+msgstr "Grazie"
+
+#~ msgid "These files are not included in the WordPress core"
+#~ msgstr "Questi file non sono inclusi nel core di WordPress"
+
+#~ msgid "Different form the core file"
+#~ msgstr "Diverso dal file originario"
+
+#~ msgid "with hidden PHP code"
+#~ msgstr "con codice PHP nascosto"
+
+#~ msgid "Not in the core"
+#~ msgstr "Non presente in origine"
+
+#~ msgid "Checksum Error"
+#~ msgstr "Errore di Checksum"
+
+#~ msgid "Suspect Extension"
+#~ msgstr "Tipo di file Sospetto"
+
+#~ msgid "Suspect Content"
+#~ msgstr "Contenuto Sospetto"
+
+#~ msgid ""
+#~ "If switched on, a notification will be sent when the daily security check "
+#~ "will find any difference between this site WordPress core php or js files "
+#~ "and the original ones of a clean setup"
+#~ msgstr ""
+#~ "Se attivata, verrà inviata una notifica quando il controllo di sicurezza "
+#~ "giornaliero troverà delle differenze tra i file core php o js di "
+#~ "WordPress di questo sito e quelli originali di una configurazione pulita"
+
+#~ msgid "WordPress core files problem on"
+#~ msgstr "Problema con i file del core di WordPress su"
+
+#~ msgid "The daily security check has find that the following files of"
+#~ msgstr ""
+#~ "Il controllo di sicurezza giornaliero ha rilevato che i seguenti file di"
+
+#~ msgid ""
+#~ "are different from the WordPress core php and js files of a clean setup"
+#~ msgstr ""
+#~ "sono diversi dai file php e js del core di WordPress di una "
+#~ "configurazione pulita"
+
+#~ msgid "no difference found with the original WordPress core files"
+#~ msgstr "nessuna differenza con i file originali del core di WordPress"
+
+#~ msgid "On user delete"
+#~ msgstr "All'eliminazione dell'utente"
+
+#~ msgid "does not match the original one"
+#~ msgstr "non corrisponde a quello originale"
+
+#~ msgid "The user"
+#~ msgstr "L'utente"
+
+#~ msgid "WordPress files changed on"
+#~ msgstr "I file del core di WordPress modificati su"
+
+#~ msgid "Completed with some core changes found"
+#~ msgstr "Completato con alcuni cambiamenti nel core indiviuati"
+
+#~ msgid "Code"
+#~ msgstr "Codice"
+
+#~ msgid "token is"
+#~ msgstr "il token è"
+
+#~ msgid "It only applies to the current WPML language"
+#~ msgstr "Impostazione valida per la sola lingua WPML corrente"
+
+#~ msgid "Installed Plugins"
+#~ msgstr "Plugin installati"
+
+#~ msgid "Take a look to the others"
+#~ msgstr "Dai un'occhiata agli altri"
+
+#~ msgid "NutsForPress Plugins"
+#~ msgstr "plugins NutsForPress"
+
+#~ msgid "Tracking duration"
+#~ msgstr "Durata del monitoraggio"
+
+#~ msgid "Define how long have to be tracked the failed login attempts"
+#~ msgstr ""
+#~ "Definire per quanto tempo devono essere monitorati i tentativi di accesso "
+#~ "non riusciti"
+
+#~ msgid "Hide usernames publicly accessible"
+#~ msgstr "Nascondi i nomi utente accessibili al pubblico"
+
+#~ msgid "Hide authors archive pages"
+#~ msgstr "Nascondi le pagine di archivio degli autori"
+
+#~ msgid "Notify when a user login successfully"
+#~ msgstr ""
+#~ "Invia una notifica quando un utente ha effettuato correttamente l'accesso"
+
+#~ msgid "Notify when a user role is changed"
+#~ msgstr "Invia una notifica quando un ruolo utente viene modificato"
+
+#~ msgid "Notify when a user is deleted"
+#~ msgstr "Invia una notifica quando un utente viene eliminato"
+
+#~ msgid "Notify when a user is temporary locked down"
+#~ msgstr "Invia una notifica quando un utente viene temporaneamente bloccato"
+
+#~ msgid "Notify when a user is permanently locked down"
+#~ msgstr ""
+#~ "Invia una notifica quando un utente viene bloccato in modo permanente"
+
+#~ msgid "Prevent access to usernames"
+#~ msgstr "Impedisci l'accesso ai nomi utente"
+
+#~ msgid "Notify when a new user is registered"
+#~ msgstr "Invia una notifica quando un nuovo utente è registrato"
+
+#~ msgid ""
+#~ "If switched on, a notification will be sent when a user is registered"
+#~ msgstr ""
+#~ "Se attivata, verrà inviata una notifica quando un utente è registrato"
+
+#~ msgid "Display a notification message"
+#~ msgstr "Visualizzare un messaggio di notifica"
+
+#~ msgid ""
+#~ "This setting only applies to current WPML language, please switch "
+#~ "language and set a different value for the other languages"
+#~ msgstr ""
+#~ "Questa impostazione si applica solo alla lingua WPML corrente, per favore "
+#~ "cambia lingua e imposta un valore differente per le altre lingue"
+
+#~ msgid "No Index"
+#~ msgstr "No Index"
+
+#~ msgid ""
+#~ "Flag this checkbox if you want that add \"noindex\" meta to this page"
+#~ msgstr ""
+#~ "Spunta questa checkbox se vuoi che venga aggiunto il meta \"noindex\" a "
+#~ "questa pagina"
+
+#~ msgid "Title"
+#~ msgstr "Titolo"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "These 70 chars represent the content of your title tag"
+#~ msgstr "Questi 70 caratteri rappresentano il contenuto del tag title"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "to the above title"
+#~ msgstr "al titolo di cui sopra"
+
+#~ msgid "so that your page title becames"
+#~ msgstr "in modo che il titolo della pagina diventi"
+
+#~ msgid "your title"
+#~ msgstr "il tuo titolo"
+
+#~ msgid "your sitename"
+#~ msgstr "il nome del tuo sito"
+
+#~ msgid "These 160 chars represent the content of your meta description tag"
+#~ msgstr ""
+#~ "Questi 160 caratteri rappresentano il contenuto del tuo tag meta "
+#~ "description"
+
+#~ msgid "Title and description for pages and posts"
+#~ msgstr "Titolo e descrizione delle pagine e degli articoli"
+
+#~ msgid ""
+#~ "If switched on, title and description fields are added to pages and posts "
+#~ "editor and their content will be used by search engines to index and to "
+#~ "describe your website into search results"
+#~ msgstr ""
+#~ "Se attivata, i campi titolo e descrizione vengono aggiunti all'editor di "
+#~ "pagine e articoli e il loro contenuto verrà utilizzato dai motori di "
+#~ "ricerca per indicizzare e descrivere il tuo sito Web nei risultati di "
+#~ "ricerca"
+
+#~ msgid "Add Facebook Open Graph and Twitter Card"
+#~ msgstr "Aggiungi Open Graph di Facebook e Twitter Card"
+
+#~ msgid ""
+#~ "If switched on, sharing meta tags for Facebook and Twitter are added to "
+#~ "the code of your pages and posts and they are populated with the entered "
+#~ "title, description and featured image"
+#~ msgstr ""
+#~ "Se attivata, i meta tag di condivisione per Facebook e Twitter vengono "
+#~ "aggiunti al codice delle tue pagine e dei tuoi articoli e vengono "
+#~ "popolati con il titolo, la descrizione e l'immagine in evidenza inseriti"
+
+#~ msgid "Backup featured image"
+#~ msgstr "Immagine in evidenza di riserva"
+
+#~ msgid ""
+#~ "Choose a backup featured image to be used in sharing tags when no "
+#~ "featured image is set"
+#~ msgstr ""
+#~ "Scegli un'immagine di riserva da utilizzare nei tag di condivisione "
+#~ "quando non è impostata alcuna immagine in evidenza"
+
+#~ msgid "Open Media Library"
+#~ msgstr "Apriri la raccolta multimediale"
+
+#~ msgid ""
+#~ "If enabled, the above backup featured image will be included into archive "
+#~ "pages sharing meta tags instead of the featured image of the first post"
+#~ msgstr ""
+#~ "Se abilitato, l'immagine di riserva di cui sopra verrà inclusa nei meta "
+#~ "tags di condivisione della pagine di archivio al posto dell'immagine in "
+#~ "evidenza del primo post"
+
+#~ msgid "Replace WordPress sitemap"
+#~ msgstr "Sostituisci la sitemap di WordPress"
+
+#, php-format
+#~ msgid ""
+#~ "If switched on, default WordPress %s will be disabled, a better %s will "
+#~ "be created and the sitemap link will be replaced into WordPress %s"
+#~ msgstr ""
+#~ "Se attivata, la %s predefinita di WordPress verrà disabilitata, verrà "
+#~ "creata una %s migliore e il link sitemap verrà sostituito nel %s di "
+#~ "WordPress"
+
+#~ msgid "Allow no index for pages and posts"
+#~ msgstr "Consentire no index per pagine e articoli"
+
+#~ msgid ""
+#~ "If switched on, a checkbox is added to pages and posts editor and, where "
+#~ "the checkbox is flagged, a meta no index is added to the post or the page "
+#~ "haeder"
+#~ msgstr ""
+#~ "Se attivata, una casella di controllo viene aggiunta all'editor di pagine "
+#~ "e articoli e, se la casella di controllo è contrassegnata, viene aggiunto "
+#~ "un meta no index all'haeder dell'articolo o della pagina"
+
+#~ msgid "Message from"
+#~ msgstr "Messaggio da"
+
+#~ msgid "Hi"
+#~ msgstr "Ciao"
+
+#~ msgid "This is a plain text message from"
+#~ msgstr "Questo è un messaggio di testo proveniente da"
+
+#~ msgid ""
+#~ "This email message has been sent in order to check if the entered "
+#~ "settings prevent email from being marked as spam and redirected to junk "
+#~ "folder"
+#~ msgstr ""
+#~ "Questo messaggio di posta elettronica è stato inviato per verificare se "
+#~ "le impostazioni immesse siano sufficienti ad impedire che la posta "
+#~ "elettronica venga contrassegnata come posta indesiderata e reindirizzata "
+#~ "alla cartella posta indesiderata"
+
+#~ msgid ""
+#~ "If you have found this message is in the incoming folder, half of the job "
+#~ "is done"
+#~ msgstr ""
+#~ "Se hai trovato questo messaggio nella cartella della posta in arrivo, sei "
+#~ "a metà dell'opera"
+
+#~ msgid "As a further step you should send a test email to"
+#~ msgstr "Come ulteriore passaggio dovresti inviare un'email di prova a"
+
+#~ msgid "or to"
+#~ msgstr "oppure a"
+
+#~ msgid "and see the score you get"
+#~ msgstr "e vedere il punteggio che ottieni"
+
+#~ msgid ""
+#~ "if you did a good job, you can easily achieve full marks (providing that "
+#~ "SPF and DMARK are correctly set)"
+#~ msgstr ""
+#~ "se hai fatto un buon lavoro, puoi facilmente ottenere il massimo dei voti "
+#~ "(a condizione che SPF e DMARK siano impostati correttamente)"
+
+#~ msgid "Enjoy"
+#~ msgstr "Buon divertimento"
+
+#~ msgid "Send email through SMTP"
+#~ msgstr "Invia email tramite SMTP"
+
+#~ msgid ""
+#~ "If switched on, all the emails sent from this website by WordPress "
+#~ "PHPMailer are routed through the SMTP server defined here"
+#~ msgstr ""
+#~ "Se attivata, tutte le email inviate da questo sito web da WordPress "
+#~ "PHPMailer vengono instradate attraverso il server SMTP definito qui"
+
+#~ msgid "Server encryption"
+#~ msgstr "Crittografia server"
+
+#~ msgid "Select the encryption protocol used by your SMTP server"
+#~ msgstr "Seleziona il protocollo di crittografia utilizzato dal server SMTP"
+
+#~ msgid "None"
+#~ msgstr "Nessuna"
+
+#~ msgid "SMTP port"
+#~ msgstr "Porta SMTP"
+
+#~ msgid "Select the port used by your SMTP server"
+#~ msgstr "Seleziona la porta utilizzata dal server SMTP"
+
+#~ msgid "Outgoing email server address"
+#~ msgstr "Indirizzo del server di posta elettronica in uscita"
+
+#~ msgid "Enter the address of your SMTP server"
+#~ msgstr "Immetti l'indirizzo del server SMTP"
+
+#~ msgid "Sender address"
+#~ msgstr "Indirizzo del mittente"
+
+#~ msgid "Enter the email address that you want to use for outgoing email"
+#~ msgstr ""
+#~ "Immetti l'indirizzo email da usare per la posta elettronica in uscita"
+
+#~ msgid "Sender name"
+#~ msgstr "Nome del mittente"
+
+#~ msgid "SMTP authentication"
+#~ msgstr "Autenticazione SMTP"
+
+#~ msgid ""
+#~ "Switch on if your SMTP server requires authentication in order to send "
+#~ "email messages"
+#~ msgstr ""
+#~ "Attiva se il server SMTP richiede l'autenticazione per inviare messaggi "
+#~ "di posta elettronica"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Enter the password for the authentication address above"
+#~ msgstr "Immetti la password per l'indirizzo di autenticazione qui sopra"
+
+#~ msgid "Send a test email message"
+#~ msgstr "Invia un'email di prova"
+
+#~ msgid "Click on the arrow to display the email test functions"
+#~ msgstr ""
+#~ "Clicca sulla freccia per visualizzare le funzioni di test della posta "
+#~ "elettronica"
+
+#~ msgid "Recipient address for the test message"
+#~ msgstr "Destinatario del messaggio di prova"
+
+#~ msgid "Enter a recipient address for your email test message"
+#~ msgstr "Immetti l'indirizzo del destinatario del messaggio email di test"
+
+#~ msgid "Sending email, please wait"
+#~ msgstr "Invio email, attendere"
+
+#~ msgid "An error occurred, please check your settings and retry"
+#~ msgstr ""
+#~ "Si è verificato un errore, per favore controlla le impostazioni e riprova"
+
+#~ msgid "Send email"
+#~ msgstr "Invia email"
+
+#~ msgid "if you did a good job, you can easily achieve a score of"
+#~ msgstr ""
+#~ "se hai fatto un buon lavoro, puoi facilmente ottenere un punteggio di"
+
+#, fuzzy
+#~| msgid "Dog Name"
+#~ msgid "From name"
+#~ msgstr "Nome del Cane"
+
+#~ msgid "Use SMTP settings"
+#~ msgstr "Utilizzare le impostazioni SMTP"
+
+#, fuzzy
+#~| msgid "Enter your code"
+#~ msgid "Enter your sender address"
+#~ msgstr "Inserisci il tuo codice"
+
+#, fuzzy
+#~| msgid ""
+#~| "If switched on, WordPress PHPMailer will operate with the settings "
+#~| "defined here"
+#~ msgid ""
+#~ "If switched on, WordPress PHPMailer will operate with the authentication "
+#~ "defined here"
+#~ msgstr ""
+#~ "Se attivata, WordPress PHPMailer funzionerà con le impostazioni definite "
+#~ "qui"
+
+#, fuzzy
+#~| msgid "Enter your code"
+#~ msgid "Enter your password"
+#~ msgstr "Inserisci il tuo codice"
+
+#~ msgid ""
+#~ "If switched on, GIF images will be skipped from resizing, in order to "
+#~ "avoid risk of spoil their native animation"
+#~ msgstr ""
+#~ "Se attivata, le immagini GIF verranno ignorate dal ridimensionamento, al "
+#~ "fine di evitare il rischio di rovinare la loro animazione nativa"
+
+#~ msgid "Compress JPEG on upload"
+#~ msgstr "Comprimi JPEG al caricamento"
+
+#~ msgid ""
+#~ "If switched on, JPEG images will be compressed to the quality defined "
+#~ "here, preserving the original full quality image"
+#~ msgstr ""
+#~ "Se attivata, le immagini JPEG verranno compresse alla qualità qui "
+#~ "definita, preservando l'immagine originale di qualità completa"
+
+#~ msgid ""
+#~ "This quality level will be used to compress JPEG images on upload and on "
+#~ "thumbnails rebuild"
+#~ msgstr ""
+#~ "Questo livello di qualità verrà utilizzato per comprimere le immagini "
+#~ "JPEG al caricamento e nella ricostruzione delle miniature"
+
+#~ msgid "Bulk rebuild thumbnails"
+#~ msgstr "Ricostruisci in blocco le miniature"
+
+#~ msgid "Click on the arrow to display the bulk rebuild thumbnails functions"
+#~ msgstr ""
+#~ "Fai clic sulla freccia per visualizzare le funzioni di ricostruzione in "
+#~ "blocco delle miniature"
+
+#~ msgid "Calculating media to treat"
+#~ msgstr "Calcolo dei media da trattare"
+
+#~ msgid "Now treating media"
+#~ msgstr "Sto trattando il media"
+
+#~ msgid "of"
+#~ msgstr "di"
+
+#~ msgid "Job Completed"
+#~ msgstr "Attività completata"
+
+#~ msgid ""
+#~ "If switched on, all the thumbnails will be rebuilt, not only the ones "
+#~ "with different size or compression"
+#~ msgstr ""
+#~ "Se attivata, tutte le miniature verranno ricostruite, non solo quelle con "
+#~ "dimensioni o compressione diverse"
+
+#~ msgid ""
+#~ "If switched on, thumbnails will be added to PDF documents that have lost "
+#~ "them"
+#~ msgstr ""
+#~ "Se attivata, le miniature verranno aggiunte ai documenti PDF che le hanno "
+#~ "perse"
+
+#~ msgid "Write meta on upload"
+#~ msgstr "Scrivi meta al caricamento"
+
+#~ msgid ""
+#~ "If switched on, \"alt title\", \"description\" and \"excerpt\" will be "
+#~ "automatically filled out with a cleaned version of the title value; for "
+#~ "example, \"my_best_image.jpg\" will turn to \"my best image\""
+#~ msgstr ""
+#~ "Se attivata, \"alt title\", \"description\" e \"excerpt\" verranno "
+#~ "compilati automaticamente con una versione pulita del valore del titolo; "
+#~ "ad esempio, \"my_best_image.jpg\" si rivolgerà a \"la mia migliore "
+#~ "immagine\""
+
+#~ msgid "Bulk rewrite meta"
+#~ msgstr "Riscrivi in blocco i meta"
+
+#~ msgid "Click on the arrow to display the bulk rewrite meta functions"
+#~ msgstr ""
+#~ "Fai clic sulla freccia per visualizzare le funzioni di riscrittura  in "
+#~ "blocco dei meta"
+
+#~ msgid ""
+#~ "If switched on, all the meta will be rewritten, not only the ones with "
+#~ "empty entries"
+#~ msgstr ""
+#~ "Se attivata, tutti i meta verranno riscritti, non solo quelli con "
+#~ "elementi vuoti"
+
+#~ msgid "Ultra HD (3840px)"
+#~ msgstr "Ultra HD (3840px)"
+
+#~ msgid "Quad HD (2560px)"
+#~ msgstr "Quad HD (2560px)"
+
+#~ msgid "Quad WXGA (2048px)"
+#~ msgstr "Quad WXGA (2048px)"
+
+#~ msgid "Full HD (1920px)"
+#~ msgstr "Full HD (1920px)"
+
+#~ msgid "HD (1600px)"
+#~ msgstr "HD (1600px)"
+
+#~ msgid "WXGA Plus (1440px)"
+#~ msgstr "WXGA Plus (1440px)"
+
+#~ msgid "HD (1280px)"
+#~ msgstr "HD (1280px)"
+
+#~ msgid "WP default"
+#~ msgstr "Predefinito WP"
+
+#~ msgid "Resize images on upload"
+#~ msgstr "Ridimensiona le immagini al caricamento"
+
+#~ msgid ""
+#~ "If switched on, images will be resized to the size defined here, "
+#~ "preserving the original full size image"
+#~ msgstr ""
+#~ "Se attivata, le immagini verranno ridimensionate in base alle dimensioni "
+#~ "qui definite, preservando l'immagine originale a grandezza naturale"
+
+#~ msgid ""
+#~ "Images bigger than the size set will be resized on upload and on "
+#~ "thumbnails rebuild, preserving the original full size image"
+#~ msgstr ""
+#~ "Le immagini più grandi delle dimensioni impostate verranno ridimensionate "
+#~ "al caricamento e durante la ricostruzione delle miniature, preservando "
+#~ "l'immagine originale a grandezza naturale"
+
+#~ msgid "WordPress default"
+#~ msgstr "Predefinito di WordPress"
+
+#, fuzzy
+#~| msgid "Rebuild Thumbnails"
+#~ msgid "Bulk Rebuild Thumbnails"
+#~ msgstr "Ricostruisci Miniature"
+
+#~ msgid "Bulk Rewrite Meta"
+#~ msgstr "Riscrivi in blocco i meta"
+
+#~ msgid "Define images size threshold"
+#~ msgstr "Definisci la soglia delle dimensioni delle immagini"
+
+#~ msgid "Define JPEG compression level"
+#~ msgstr "Definisci il livello di compressione JPEG"
+
+#~ msgid ""
+#~ "If switched on, a custom quality value can be set and used to compress "
+#~ "JPEG images on upload"
+#~ msgstr ""
+#~ "Se attivata, è possibile impostare e utilizzare un valore di qualità "
+#~ "personalizzato per comprimere le immagini JPEG al caricamento"
+
+#~ msgid "Enable automatic meta"
+#~ msgstr "Abilita i meta automatici"
+
+#~ msgid "Rebuild Meta"
+#~ msgstr "Ricostruisci Meta"
+
+#~ msgid ""
+#~ "If switched, it resizes all the images while they are uploaded into the "
+#~ "media gallery"
+#~ msgstr ""
+#~ "Se attivata, ridimensiona tutte le immagini mentre vengono caricate nella "
+#~ "galleria multimediale"
+
+#~ msgid ""
+#~ "If switched, it compresses all the JPEG images while they are uploaded "
+#~ "into the media gallery"
+#~ msgstr ""
+#~ "Se attivata, comprime tutte le immagini JPEG mentre vengono caricate "
+#~ "nella galleria multimediale"
+
+#~ msgid ""
+#~ "Please, select a compression level to be applied on JPEG upload or on "
+#~ "Thumbnails rebuild"
+#~ msgstr ""
+#~ "Per favore, seleziona un livello di compressione da applicare al "
+#~ "caricamento JPEG o sulla ricostruzione delle miniature"
+
+#~ msgid "This section allows you to rebuild thumbnails"
+#~ msgstr "Questa sezione consente di ricostruire le miniature"
+
+#~ msgid "Save settings in order to rebuild thumbnails"
+#~ msgstr "Salvare le impostazioni per poter ricostruire le miniature"
+
+#~ msgid "If switched on, PDF thumbnails that are missing will be regenerated"
+#~ msgstr "Se attivata, le miniature PDF mancanti verranno rigenerate"
+
+#~ msgid ""
+#~ "the success of this operation depends on the capability of your server to "
+#~ "manage PDF conversion"
+#~ msgstr ""
+#~ "il successo di questa operazione dipende dalla capacità del server di "
+#~ "gestire la conversione PDF"
+
+#~ msgid ""
+#~ "If switched on, any attachment that miss his own physical file will be "
+#~ "deleted"
+#~ msgstr ""
+#~ "Se attivata, qualsiasi allegato privo del proprio file fisico verrà "
+#~ "eliminato"
+
+#~ msgid "Settings saved"
+#~ msgstr "Impostazioni salvate"
+
+#~ msgid "Setup"
+#~ msgstr "Setup"
+
+#~ msgid "Thumbnails rebuild"
+#~ msgstr "Ricostruzione miniature"
+
+#~ msgid "already exists"
+#~ msgstr "esiste già"
+
+#~ msgid "Detail"
+#~ msgstr "Dettaglio"
+
+#~ msgid "Hello World"
+#~ msgstr "Ciao Mondo"
+
+#~ msgid "Remember me on this device"
+#~ msgstr "Ricordami su questo device"
+
+#~ msgid "Send"
+#~ msgstr "Invia"
+
+#~ msgid "Cat Name"
+#~ msgstr "Nome del Gatto"
+
+#~ msgid "Cat Name Text Label"
+#~ msgstr "Etichetta testo nome gatto"
+
+#~ msgid "Text Placeholder"
+#~ msgstr "Testo del segnaposto"
+
+#~ msgid "Cat Name Checkbox"
+#~ msgstr "Casella di controllo Nome Gatto"
+
+#~ msgid "Textarea Cat Label"
+#~ msgstr "Etichetta Textarea Gatto"
+
+#~ msgid "Textarea Placeholder"
+#~ msgstr "Textarea Segnaposto"
+
+#~ msgid "Select Cat Label"
+#~ msgstr "Etichetta Selezione Gatto"
+
+#~ msgid "One"
+#~ msgstr "Uno"
+
+#~ msgid "Two"
+#~ msgstr "Due"
+
+#~ msgid "Three"
+#~ msgstr "Tre"
+
+#~ msgid "Dog Name Text Label"
+#~ msgstr "Etichetta testo nome cane"
+
+#~ msgid "Dog Name Checkbox"
+#~ msgstr "Casella di controllo Nome Cane"
+
+#~ msgid "Textarea Dog Label"
+#~ msgstr "Etichetta Textarea Cane"
+
+#~ msgid "Select Dog Label"
+#~ msgstr "Etichetta Selezione Cane"
+
+#~ msgid "Four"
+#~ msgstr "Quattro"
+
+#~ msgid "Five"
+#~ msgstr "Cinque"
+
+#~ msgid "Six"
+#~ msgstr "Six"
+
+#~ msgid "dog"
+#~ msgstr "cane"
+
+#~ msgid "dogs"
+#~ msgstr "cani"
+
+#~ msgid "Dog"
+#~ msgstr "Cane"
+
+#~ msgid "Dogs"
+#~ msgstr "Cani"
+
+#~ msgid "cat"
+#~ msgstr "gatto"
+
+#~ msgid "cats"
+#~ msgstr "gatti"
+
+#~ msgid "Cat"
+#~ msgstr "Gatto"
+
+#~ msgid "Cats"
+#~ msgstr "Gatti"
+
+#~ msgid "breed"
+#~ msgstr "razza"
+
+#~ msgid "breeds"
+#~ msgstr "razze"
+
+#~ msgid "Breed"
+#~ msgstr "Razza"
+
+#~ msgid "Breeds"
+#~ msgstr "Razze"
+
+#~ msgid "my-breeds"
+#~ msgstr "mie-razze"
+
+#~ msgid "size"
+#~ msgstr "taglia"
+
+#~ msgid "sizes"
+#~ msgstr "taglie"
+
+#~ msgid "Size"
+#~ msgstr "Taglia"
+
+#~ msgid "Sizes"
+#~ msgstr "Taglie"
+
+#~ msgid "my-sizes"
+#~ msgstr "mie-taglie"
+
+#~ msgid "Today Menu"
+#~ msgstr "Menu di Oggi"
+
+#~ msgid "dish"
+#~ msgstr "pietanza"
+
+#~ msgid "dishes"
+#~ msgstr "pietanze"
+
+#~ msgid "Dish"
+#~ msgstr "Pietanza"
+
+#~ msgid "Dishes"
+#~ msgstr "Pietanze"
+
+#~ msgid "wines"
+#~ msgstr "vini"
+
+#~ msgid "Wine"
+#~ msgstr "Vino"
+
+#~ msgid "Wines"
+#~ msgstr "Vini"
+
+#~ msgid "beer"
+#~ msgstr "birra"
+
+#~ msgid "beers"
+#~ msgstr "birre"
+
+#~ msgid "Beer"
+#~ msgstr "Birra"
+
+#~ msgid "Beers"
+#~ msgstr "Birre"
+
+#~ msgid "menu"
+#~ msgstr "menu"
+
+#~ msgid "menus"
+#~ msgstr "menu"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Menus"
+#~ msgstr "Menu"
+
+#~ msgid "Lunch"
+#~ msgstr "Pranzo"
+
+#~ msgid "Dinner"
+#~ msgstr "Cena"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"
+
+#~ msgid "Search"
+#~ msgstr "Trova"
+
+#~ msgid "not found"
+#~ msgstr "non trovato"
+
+#~ msgid "in trash"
+#~ msgstr "nel cestino"
+
+#~ msgid "Kind of"
+#~ msgstr "Tipologia di"
+
+#~ msgid "All kinds of"
+#~ msgstr "Tutte le tipologie di"
+
+#~ msgid "Add new kind of"
+#~ msgstr "Aggiungi nuova tipologia di"
+
+#~ msgid "Edit kind of"
+#~ msgstr "Modifica tipologia di"
+
+#~ msgid "Update kind of"
+#~ msgstr "Aggiorna tipologia di"
+
+#~ msgid "Search kind of"
+#~ msgstr "Trova tipologia di"
+
+#~ msgid "kinds"
+#~ msgstr "tipologie"
+
+#~ msgid "Prices"
+#~ msgstr "Prezzi"
+
+#~ msgid "of this"
+#~ msgstr "di questo"
+
+#~ msgid "price"
+#~ msgstr "prezzo"
